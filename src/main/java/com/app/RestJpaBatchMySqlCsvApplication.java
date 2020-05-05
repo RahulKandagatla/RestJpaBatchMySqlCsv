@@ -10,6 +10,7 @@ public class RestJpaBatchMySqlCsvApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestJpaBatchMySqlCsvApplication.class, args);
+		
 	}
 
 }
